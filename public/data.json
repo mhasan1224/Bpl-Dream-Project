@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "team": "India",
+    "role": "Batsman",
+    "price": 10,
+    "image": "/players/virat-kohli.png",
+    "rating": 4.9,
+    "points": 96
+  },
+  {
+    "id": 2,
+    "name": "Rohit Sharma",
+    "team": "India",
+    "role": "Batsman",
+    "price": 9.5,
+    "image": "/players/rohit-sharma.png",
+    "rating": 4.8,
+    "points": 91
+  },
+  {
+    "id": 3,
+    "name": "Babar Azam",
+    "team": "Pakistan",
+    "role": "Batsman",
+    "price": 9.5,
+    "image": "/players/babar-azam.png",
+    "rating": 4.8,
+    "points": 89
+  },
+  {
+    "id": 4,
+    "name": "Joe Root",
+    "team": "England",
+    "role": "Batsman",
+    "price": 9,
+    "image": "/players/joe-root.png",
+    "rating": 4.7,
+    "points": 87
+  },
+  {
+    "id": 5,
+    "name": "Kane Williamson",
+    "team": "New Zealand",
+    "role": "Batsman",
+    "price": 9,
+    "image": "/players/kane-williamson.png",
+    "rating": 4.7,
+    "points": 85
+  },
+  {
+    "id": 6,
+    "name": "Steve Smith",
+    "team": "Australia",
+    "role": "Batsman",
+    "price": 9,
+    "image": "/players/steve-smith.png",
+    "rating": 4.7,
+    "points": 84
+  },
+  {
+    "id": 7,
+    "name": "Travis Head",
+    "team": "Australia",
+    "role": "Batsman",
+    "price": 9,
+    "image": "/players/travis-head.png",
+    "rating": 4.8,
+    "points": 90
+  },
+  {
+    "id": 8,
+    "name": "Quinton de Kock",
+    "team": "South Africa",
+    "role": "Wicketkeeper",
+    "price": 9,
+    "image": "/players/quinton-de-kock.png",
+    "rating": 4.6,
+    "points": 82
+  },
+  {
+    "id": 9,
+    "name": "Jos Buttler",
+    "team": "England",
+    "role": "Wicketkeeper",
+    "price": 9.5,
+    "image": "/players/jos-buttler.png",
+    "rating": 4.8,
+    "points": 88
+  },
+  {
+    "id": 10,
+    "name": "Mohammad Rizwan",
+    "team": "Pakistan",
+    "role": "Wicketkeeper",
+    "price": 9,
+    "image": "/players/mohammad-rizwan.png",
+    "rating": 4.6,
+    "points": 83
+  },
+  {
+    "id": 11,
+    "name": "Hardik Pandya",
+    "team": "India",
+    "role": "All-Rounder",
+    "price": 9.5,
+    "image": "/players/hardik-pandya.png",
+    "rating": 4.7,
+    "points": 92
+  },
+  {
+    "id": 12,
+    "name": "Ravindra Jadeja",
+    "team": "India",
+    "role": "All-Rounder",
+    "price": 9.5,
+    "image": "/players/ravindra-jadeja.png",
+    "rating": 4.8,
+    "points": 94
+  },
+  {
+    "id": 13,
+    "name": "Ben Stokes",
+    "team": "England",
+    "role": "All-Rounder",
+    "price": 9.5,
+    "image": "/players/ben-stokes.png",
+    "rating": 4.7,
+    "points": 89
+  },
+  {
+    "id": 14,
+    "name": "Shakib Al Hasan",
+    "team": "Bangladesh",
+    "role": "All-Rounder",
+    "price": 9,
+    "image": "/players/shakib-al-hasan.png",
+    "rating": 4.6,
+    "points": 86
+  },
+  {
+    "id": 15,
+    "name": "Glenn Maxwell",
+    "team": "Australia",
+    "role": "All-Rounder",
+    "price": 9,
+    "image": "/players/glenn-maxwell.png",
+    "rating": 4.6,
+    "points": 87
+  },
+  {
+    "id": 16,
+    "name": "Mohammad Nabi",
+    "team": "Afghanistan",
+    "role": "All-Rounder",
+    "price": 8,
+    "image": "/players/mohammad-nabi.png",
+    "rating": 4.3,
+    "points": 78
+  },
+  {
+    "id": 17,
+    "name": "Jasprit Bumrah",
+    "team": "India",
+    "role": "Bowler",
+    "price": 10,
+    "image": "/players/jasprit-bumrah.png",
+    "rating": 4.9,
+    "points": 98
+  },
+  {
+    "id": 18,
+    "name": "Shaheen Afridi",
+    "team": "Pakistan",
+    "role": "Bowler",
+    "price": 9,
+    "image": "/players/shaheen-afridi.png",
+    "rating": 4.7,
+    "points": 90
+  },
+  {
+    "id": 19,
+    "name": "Pat Cummins",
+    "team": "Australia",
+    "role": "Bowler",
+    "price": 9,
+    "image": "/players/pat-cummins.png",
+    "rating": 4.8,
+    "points": 91
+  },
+  {
+    "id": 20,
+    "name": "Mitchell Starc",
+    "team": "Australia",
+    "role": "Bowler",
+    "price": 9,
+    "image": "/players/mitchell-starc.png",
+    "rating": 4.7,
+    "points": 88
+  },
+  {
+    "id": 21,
+    "name": "Rashid Khan",
+    "team": "Afghanistan",
+    "role": "Bowler",
+    "price": 9.5,
+    "image": "/players/rashid-khan.png",
+    "rating": 4.9,
+    "points": 95
+  },
+  {
+    "id": 22,
+    "name": "Kagiso Rabada",
+    "team": "South Africa",
+    "role": "Bowler",
+    "price": 8.5,
+    "image": "/players/kagiso-rabada.png",
+    "rating": 4.6,
+    "points": 84
+  },
+  {
+    "id": 23,
+    "name": "Trent Boult",
+    "team": "New Zealand",
+    "role": "Bowler",
+    "price": 8.5,
+    "image": "/players/trent-boult.png",
+    "rating": 4.6,
+    "points": 85
+  },
+  {
+    "id": 24,
+    "name": "Wanindu Hasaranga",
+    "team": "Sri Lanka",
+    "role": "All-Rounder",
+    "price": 8.5,
+    "image": "/players/wanindu-hasaranga.png",
+    "rating": 4.5,
+    "points": 81
+  },
+  {
+    "id": 25,
+    "name": "Suryakumar Yadav",
+    "team": "India",
+    "role": "Batsman",
+    "price": 9,
+    "image": "/players/suryakumar-yadav.png",
+    "rating": 4.7,
+    "points": 88
+  },
+  {
+    "id": 26,
+    "name": "David Warner",
+    "team": "Australia",
+    "role": "Batsman",
+    "price": 8.5,
+    "image": "/players/david-warner.png",
+    "rating": 4.5,
+    "points": 79
+  },
+  {
+    "id": 27,
+    "name": "Fakhar Zaman",
+    "team": "Pakistan",
+    "role": "Batsman",
+    "price": 8,
+    "image": "/players/fakhar-zaman.png",
+    "rating": 4.3,
+    "points": 76
+  },
+  {
+    "id": 28,
+    "name": "Rachin Ravindra",
+    "team": "New Zealand",
+    "role": "All-Rounder",
+    "price": 8,
+    "image": "/players/rachin-ravindra.png",
+    "rating": 4.4,
+    "points": 80
+  },
+  {
+    "id": 29,
+    "name": "Andre Russell",
+    "team": "West Indies",
+    "role": "All-Rounder",
+    "price": 9,
+    "image": "/players/andre-russell.png",
+    "rating": 4.6,
+    "points": 86
+  },
+  {
+    "id": 30,
+    "name": "Nicholas Pooran",
+    "team": "West Indies",
+    "role": "Wicketkeeper",
+    "price": 8.5,
+    "image": "/players/nicholas-pooran.png",
+    "rating": 4.5,
+    "points": 83
+  }
+]

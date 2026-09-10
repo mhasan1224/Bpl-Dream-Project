@@ -1,6 +1,6 @@
 
 
-import logo from '../assets/logo.png';
+import logo from '../../assets/logo.png';
 
 interface NavbarProps {
   coin: number;
@@ -8,7 +8,7 @@ interface NavbarProps {
 
 export default function Navbar({coin} : NavbarProps){
     return (
-        <nav className='bg-yellow-50 px-10 py-5'>
+        <nav className='bg-yellow-50 px-10 py-5 font-sans'>
             <div className='flex items-center justify-between text-2xl font-semibold text-black'>
                 <img src={logo} alt="Logo" />
                 <ul className='flex gap-8'>
